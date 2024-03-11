@@ -1,0 +1,10 @@
+.textOffline {
+  color: red;
+}
+.textOnline {
+  color: green;
+}
+.text {
+  font-weight: bold;
+  font-size: 20px;
+}
